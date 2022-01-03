@@ -19,6 +19,13 @@
 - [Components](#components)
 - [Author Info](#author-info)
 
+# Tutorials used
+- https://learn.adafruit.com/adafruit-esp32-s2-feather
+
+- https://learn.adafruit.com/adafruit-stepper-dc-motor-featherwing
+
+- https://thepihut.com/products/mini-stepper-motor-200-steps-20x30mm-nema-8-size
+
 # Description
 Build a robot powered by a Microbit that will move and avoid obstacles.
 
