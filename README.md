@@ -20,11 +20,19 @@
 - [Author Info](#author-info)
 
 # Tutorials used
+
+Adafruit ESP32-32 Feather:
 - https://learn.adafruit.com/adafruit-esp32-s2-feather
+
+Stepper motor Featherwing:
 
 - https://learn.adafruit.com/adafruit-stepper-dc-motor-featherwing
 
 - https://thepihut.com/products/mini-stepper-motor-200-steps-20x30mm-nema-8-size
+
+Co2 sensor Adafruit SCD40:
+
+- https://learn.adafruit.com/adafruit-scd-40-and-scd-41?view=all
 
 # Description
 Build a robot powered by a Microbit that will move and avoid obstacles.
