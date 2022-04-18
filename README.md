@@ -5,6 +5,7 @@
 
 - [Description](#description)
 - [Assembling the Pavilion](#assembling-the-pavilion)
+- [Wiring the Pavilion](#wiring-the-pavilion)
 - [Coding the Pavilion](#coding-the-pavilion)
 - [Visualising data with Adafruit IO](#visualising-data-with-adafruit-io)
 - [Tuturials used](#tutorial-used)
@@ -23,6 +24,14 @@ and Youtube assembly link video tutorial:
 > XXX
 
 [Back To The Top](#the-air-quality-pop-up-pavilion)
+
+## Wiring the Pavilion
+
+> The Motors
+<img src= "Images/wiringmotors.png" width=800>
+
+>The Electronic Components
+<img src= "Images/wiringcomponents.png" width=800>
 
 ## Coding the Pavilion
 
