@@ -9,7 +9,7 @@
 - [Running Circuitpython on adafruit esp32s2 feather](#running-circuitpython-on-adafruit-esp32s2-feather)
 - [Coding the Pavilion](#coding-the-pavilion)
 - [Visualising data with Adafruit IO](#visualising-data-with-adafruit-io)
-- [Tuturials used](#tutorial-used)
+- [Tutorials used](#tutorial-used)
 - [Components](#components)
 - [Author Info](#author-info)
 
