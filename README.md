@@ -27,10 +27,10 @@ and Youtube assembly link video tutorial:
 
 ## Wiring the Pavilion
 
-> The Motors
+> Wiring The Motors
 <img src= "Images/wiringmotors.png" width=800>
 
->The Electronic Components
+>Wiring The Electronic Components
 <img src= "Images/Wiringcomponents.png" width=800>
 
 ## Coding the Pavilion
