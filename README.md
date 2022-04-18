@@ -45,6 +45,8 @@ Install Mu Editor
 Mu is a simple code editor that works with the Adafruit CircuitPython boards. It's written in Python and works on Windows, MacOS, Linux and Raspberry Pi. 
 >Download Mu from https://codewith.mu.
 
+[Back To The Top](#the-air-quality-pop-up-pavilion)
+
 The CIRCUITPY Drive
 >https://learn.adafruit.com/adafruit-esp32-s2-feather/the-circuitpy-drive
 
@@ -65,17 +67,18 @@ Download Bundle for Version 7.x
 The libraries that will be needed for the Pavillion project are listed below. Copy them from the bundle and include them into your lib folder.
 <img src= "Images/librairies.png" width=800>
 
+[Back To The Top](#the-air-quality-pop-up-pavilion)
+
 ## Coding the Pavilion
 
 I coded the pavilion using Circuit Python to code the stepper motors, the servos, the Neopixels, the fan, the Co2 sensor and the TFT screen
+> https://github.com/Avmaker/Pavilion/blob/main/Code/code.py
 
 cf pdf file in Assembling Instruction folder
 and Youtube assembly link video tutorial: 
 > XXX
 
 ## Visualising data with Adafruit IO
-I also used CircuitPython to code the visualisation of the date on Adafruit IO.
-
 ### Adafruit Platform
 
 You’‘ll need to create an account on adafruit.com
@@ -104,7 +107,14 @@ Your secrets.py file should look similar to this:
     ‘mqtt_password’: ‘your aio_key’,
     }
 
-Save you secrets.py file in yourCIRCUITPY root file 
+Save you secrets.py file in yourCIRCUITPY root file
+
+[Back To The Top](#the-air-quality-pop-up-pavilion)
+
+### Code for Pavilion Iot
+I also used CircuitPython to code the visualisation of the date on Adafruit IO.
+> https://github.com/Avmaker/Pavilion/blob/main/Code/pavilion_iot.py
+(to run, change name to code.py)
 
 ### Adafruit IO set up
 > https://learn.adafruit.com/welcome-to-adafruit-io/getting-started-with-adafruit-io
@@ -123,6 +133,8 @@ Create Feeds & Dashboard
 > Follow Adafruit guide here: https://learn.adafruit.com/adafruit-io-basics-dashboards
 
 <img src= "Images/dashboard.png" width=800>
+
+[Back To The Top](#the-air-quality-pop-up-pavilion)
 
 ## Components 
 **What you will need**
@@ -170,8 +182,9 @@ Adafruit IO set up
 - https://learn.adafruit.com/adafruit-io-basics-dashboards
 
 ## Author Info
-
+- Avye Couloute
 - Twitter - [@girlsintocoding](https://twitter.com/girlsintocoding)
+- Instagram: [@girls_into_coding](https://www.instagram.com/girls_into_coding/)
 - Website - [Girls Into Coding](https://girlsintocoding.com)
 
 [Back To The Top](#the-air-quality-pop-up-pavilion)
