@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-- [Description](#description-and-overview)
+- [Project Description and Overview](#description-and-overview)
 - [Assembling the Pavilion](#assembling-the-pavilion)
 - [Wiring the Pavilion](#wiring-the-pavilion)
 - [Coding the Pavilion](#coding-the-pavilion)
