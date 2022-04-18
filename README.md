@@ -2,7 +2,7 @@
 
 ![robot](https://github.com/Avmaker/Microbit_Robot/blob/master/Images/Robot.png)
 
-<img src= "Images/sketch.png" width=800>
+<img src= "Images/PavilionCover.png" width=800>
 
 ### Table of Contents
 
