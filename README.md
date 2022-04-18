@@ -44,6 +44,54 @@ and Youtube assembly link video tutorial:
 ## Visualising data with Adafruit IO
 I also used CircuitPython to code the visualisation of the date on Adafruit IO.
 
+### Adafruit Platform
+
+You’‘ll need to create an account on adafruit.com
+
+Secrets.py File
+It allows you to store your WiFi network's SSID and password, along with other sensitive information, separately from your main program, so that you don't accidentally share your info when sharing your code.
+
+Head to io.adafruit.com and simply click the View AIO Key link on the left hand side of the Adafruit IO page to get this information.
+
+You will need your network information, as well as an Adafruit IO account. Your Adafruit AIO information and your location will also be placed in the file.
+
+Using Mu or any text editor, you should add your Adafruit IO Username and Adafruit IO Key to the secrets.py file.
+
+Once you have logged into your account, there information you'll need to place in your secrets.py file: Adafruit IO username, and Adafruit IO key, broker, mqtt port, mqtt username and mqtt passord in the secrets.py file. 
+
+Your secrets.py file should look similar to this:
+
+> secrets = {
+    ‘ssid’ : ‘your SSID here’,
+    ‘password’ : ‘Your password here’,
+     ‘aio_username’ : ‘your aio username’,
+    ‘aio_key’ : ‘your aio key’,
+    ‘broker’: “io.adafruit.com” ,
+    ‘mqtt_port’: 8883,
+    ‘mqtt_username’: ‘your aio_username’,
+    ‘mqtt_password’: ‘your aio_key’,
+    }
+
+Save you secrets.py file in yourCIRCUITPY root file 
+
+### Adafruit IO set up
+> https://learn.adafruit.com/welcome-to-adafruit-io/getting-started-with-adafruit-io
+
+Head over to io.adafruit.com and click Sign In to log into IO using your Adafruit account. It's free and fast to join.
+
+Create Feeds & Dashboard
+
+- Feeds
+
+> Follow Adafruit guide here : https://learn.adafruit.com/adafruit-io-basics-feeds 
+
+<img src= "Images/feeds.png" width=800>
+
+- Dashboards
+> Follow Adafruit guide here: https://learn.adafruit.com/adafruit-io-basics-dashboards
+
+<img src= "Images/dashboard.png" width=800>
+
 ## Components 
 **What you will need**
 - Adafruit ESP32-S2 Feather with BME280 Sensor
