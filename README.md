@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-- [Description](#description)
+- [Description](#description-and-overview)
 - [Assembling the Pavilion](#assembling-the-pavilion)
 - [Wiring the Pavilion](#wiring-the-pavilion)
 - [Coding the Pavilion](#coding-the-pavilion)
@@ -12,7 +12,7 @@
 - [Components](#components)
 - [Author Info](#author-info)
 
-## Description
+## Project Description and Overview
 Since the pandemic, social distancing along with the need for additional space and appropriate ventilation has become hugely important. Because of this, I want to also explore the concept of a POP-UP Pavilion - A pavilion that could be installed in different locations to provide space & healthy indoor air quality solutions where needed. There is a range of settings that could benefit from this, including classrooms, maker spaces & eating areas in the hospitality sector, to name just a few. I want to develop and refine a scaled-down fully working model of this pavilion concept and ultimately create a workshop based on it that will enable me to deliver hands-on sessions to other young people - giving them the opportunity to explore how spaces can monitor & react to internal air quality in order to improve the experience of the users.
 
 The pavilion uses an internal sensor to monitor & then trigger various reactions to the co2 levels from inside. The reactions include opening & closing motorised shutter walls, an automatic sliding skylight, a ventilation fan & colour coded co2 level warning lights. I have used stepper motors & servos to generate the movement, and an Adafruit ESP 32-S2 as the brain stacked with a TFT screen to display the air quality data from the wall of the pavilion. The data is also visualised via IoT on Adafruit IO
