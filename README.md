@@ -1,6 +1,6 @@
 # Microbit Robot With The L9110S Motor Driver Board
 
-![robot](https://github.com/Avmaker/Microbit_Robot/blob/master/Images/Robot.png)
+
 
 <img src= "Images/PavilionCover.JPG" width=800>
 
