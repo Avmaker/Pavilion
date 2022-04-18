@@ -31,7 +31,7 @@ and Youtube assembly link video tutorial:
 <img src= "Images/wiringmotors.png" width=800>
 
 >The Electronic Components
-<img src= "Images/wiringcomponents.png" width=800>
+<img src= "Images/Wiringcomponents.png" width=800>
 
 ## Coding the Pavilion
 
