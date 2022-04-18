@@ -182,7 +182,7 @@ Adafruit IO set up
 - https://learn.adafruit.com/adafruit-io-basics-dashboards
 
 ## Author Info
-- Avye Couloute
+- Avye Couloute [10 To No Limit](https://10tonolimit.com)
 - Twitter - [@girlsintocoding](https://twitter.com/girlsintocoding)
 - Instagram: [@girls_into_coding](https://www.instagram.com/girls_into_coding/)
 - Website - [Girls Into Coding](https://girlsintocoding.com)
