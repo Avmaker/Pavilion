@@ -6,6 +6,7 @@
 - [Project Description and Overview](#description-and-overview)
 - [Assembling the Pavilion](#assembling-the-pavilion)
 - [Wiring the Pavilion](#wiring-the-pavilion)
+- [Running Circuitpython on adafruit esp32s2 feather](#running-circuitpython-on-adafruit-esp32s2-feather)
 - [Coding the Pavilion](#coding-the-pavilion)
 - [Visualising data with Adafruit IO](#visualising-data-with-adafruit-io)
 - [Tuturials used](#tutorial-used)
@@ -32,6 +33,37 @@ and Youtube assembly link video tutorial:
 
 >Wiring The Electronic Components
 <img src= "Images/Wiringcomponents.png" width=800>
+
+## Running CircuitPython on Adafruit ESP32-S2 Feather
+Guide on how to get CircuitPython running on the ESP32-S2 board
+>https://learn.adafruit.com/adafruit-esp32-s2-feather/circuitpython
+
+Install CircuitPython 7.2.5: 
+>Guide: https://circuitpython.org/board/adafruit_feather_esp32s2/
+
+Install Mu Editor
+Mu is a simple code editor that works with the Adafruit CircuitPython boards. It's written in Python and works on Windows, MacOS, Linux and Raspberry Pi. 
+>Download Mu from https://codewith.mu.
+
+The CIRCUITPY Drive
+>https://learn.adafruit.com/adafruit-esp32-s2-feather/the-circuitpy-drive
+
+The CIRCUITPY drive is where your code and the necessary libraries and files will live. You can edit your code directly on this drive and when you save, it will run automatically. When you create and edit code, you'll save your code in a code.py file located on the CIRCUITPY drive. 
+
+With a fresh CircuitPython install, on your CIRCUITPY drive, you'll find a code.py file containing print("Hello World!") and an empty lib folder. 
+
+CircuitPython looks for code.py and executes the code within the file automatically when the board starts up or resets. Following a change to the contents of CIRCUITPY, such as making a change to the code.py file, the board will reset, and the code will be run. 
+
+<img src= "Images/circuitpy.png" width=800>
+
+CircuitPython Librairies needed for the Pavilion Project
+Libraries are stored on your CIRCUITPY drive in a folder called lib.
+You can download the latest Adafruit CircuitPython Library Bundle 
+>here: https://circuitpython.org/libraries
+Download Bundle for Version 7.x
+
+The libraries that will be needed for the Pavillion project are listed below. Copy them from the bundle and include them into your lib folder.
+<img src= "Images/librairies.png" width=800>
 
 ## Coding the Pavilion
 
