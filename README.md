@@ -182,6 +182,7 @@ Adafruit IO set up
 
 ## Author Info
 - Avye Couloute [10 To No Limit](https://10tonolimit.com)
+- Girls Into Coding [Girls Into Coding](https://girlsintocoding.com)
 - Twitter - [@girlsintocoding](https://twitter.com/girlsintocoding)
 - Instagram: [@girls_into_coding](https://www.instagram.com/girls_into_coding/)
 - Website - [Girls Into Coding](https://girlsintocoding.com)
