@@ -20,9 +20,9 @@ The pavilion uses an internal sensor to monitor & then trigger various reactions
 
 ## Assembling the Pavilion
 
-cf pdf file in Assembling Instruction folde
+cf design file in Assembling Instruction folde
 and Youtube assembly link video tutorial: 
-> XXX
+> https://github.com/Avmaker/Pavilion/tree/main/Design%20files
 
 [Back To The Top](#the-air-quality-pop-up-pavilion)
 
