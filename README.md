@@ -20,7 +20,7 @@ The pavilion uses an internal sensor to monitor & then trigger various reactions
 
 ## Assembling the Pavilion
 
-cf design for assembling the Pavilion can be found in the Design files folder:
+Design for assembling the Pavilion can be found in the Design files folder:
 > https://github.com/Avmaker/Pavilion/tree/main/Design%20files
 
 [Back To The Top](#the-air-quality-pop-up-pavilion)
