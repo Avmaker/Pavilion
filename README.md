@@ -177,12 +177,14 @@ Adafruit IO set up
 - https://learn.adafruit.com/adafruit-io-basics-dashboards
 
 ## Author Info
+Websites:
 - Avye Couloute [10 To No Limit](https://10tonolimit.com)
 - Girls Into Coding [Girls Into Coding](https://girlsintocoding.com)
+
+Social Media:
 - Twitter - [@girlsintocoding](https://twitter.com/girlsintocoding)
 - Instagram: [@girls_into_coding](https://www.instagram.com/girls_into_coding/)
 - Facebook: [@Girls Into Coding](https://www.facebook.com/girlsintocoding)
 - LinkedIn: [@girls into coding cic](https://www.linkedin.com/company/girls-into-coding/)
-- Website - [Girls Into Coding](https://girlsintocoding.com)
 
 [Back To The Top](#the-air-quality-pop-up-pavilion)
