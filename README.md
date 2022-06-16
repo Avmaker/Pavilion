@@ -73,10 +73,6 @@ The libraries that will be needed for the Pavillion project are listed below. Co
 I coded the pavilion using Circuit Python to code the stepper motors, the servos, the Neopixels, the fan, the Co2 sensor and the TFT screen
 > https://github.com/Avmaker/Pavilion/blob/main/Code/code.py
 
-cf pdf file in Assembling Instruction folder
-and Youtube assembly link video tutorial: 
-> XXX
-
 ## Visualising data with Adafruit IO
 ### Adafruit Platform
 
