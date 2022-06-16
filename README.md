@@ -181,6 +181,8 @@ Adafruit IO set up
 - Girls Into Coding [Girls Into Coding](https://girlsintocoding.com)
 - Twitter - [@girlsintocoding](https://twitter.com/girlsintocoding)
 - Instagram: [@girls_into_coding](https://www.instagram.com/girls_into_coding/)
+- Facebook: [@Girls Into Coding](https://www.facebook.com/girlsintocoding)
+- LinkedIn: [@girls into coding cic](https://www.linkedin.com/company/girls-into-coding/)
 - Website - [Girls Into Coding](https://girlsintocoding.com)
 
 [Back To The Top](#the-air-quality-pop-up-pavilion)
